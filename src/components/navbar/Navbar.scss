@@ -1,0 +1,14 @@
+.nav {
+  border: 1px solid black;
+
+  min-height: 20%;
+  max-width: 100vw;
+
+  img {
+    width: 70px;
+    object-fit: cover;
+    padding: 8px;
+    border-radius: 20px;
+    opacity: 0.5;
+  }
+}
